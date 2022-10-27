@@ -34,7 +34,7 @@
 <h2>Layout 2</h2>
 <br>
 <p align="center">
-<a href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%202">
+<a href="https://github.com/RMS-Project-YouTube/HTML-Layout-2">
 <img style="width:600px; height:auto;" alt="Segundo layout. As tags de navegação ficam à esquerda e à direita do main que tem o conteúdo principal do site. Quando nas telas dos smartphones, o menu fica oculto e é exibido quando você toca no botão de menu em superior direito." src="https://docs.google.com/uc?id=1Mi0HMry4lQoFqVSU2LV-GPrK6kpJbuef">
 </a>
 </p>
@@ -48,7 +48,7 @@
 <h2>Layout 3</h2>
 <br>
 <p align="center">
-<a href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%203">
+<a href="https://github.com/RMS-Project-YouTube/HTML-Layout-3">
 <img style="width:600px; height:auto;" alt="Terceiro layout com o menu de navegação abaixo do cabeçalho alinhado ao centro. O lado fica à direita do principal que possui o conteúdo principal do site. Quando em telas de smartphones o menu fica oculto e é exibido quando recebe um toque no botão de menu no canto superior direito." src="https://docs.google.com/uc?id=1DAyhA8yWBbiSw7JBAw39o_gOMPv7mnnR">
 </a>
 </p>
@@ -62,7 +62,7 @@
 <h2>Layout 4</h2>
 <br>
 <p align="center">
-<a href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%204">
+<a href="https://github.com/RMS-Project-YouTube/HTML-Layout-4">
 <img style="width:600px; height:auto;" alt="Quarto layout que exibe o menu na parte superior do site no lado esquerdo do cabeçalho. Quando em telas de smartphones, ele fica oculto e é exibido quando você toca no botão de menu no canto superior direito." src="https://docs.google.com/uc?id=173Z4jSBQF0MDbHj80EaSetmnxJU72ZZd">
 </a>
 </p>
@@ -76,7 +76,7 @@
 <h2>Layout 5</h2>
 <br>
 <p align="center">
-<a href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%205">
+<a href="https://github.com/RMS-Project-YouTube/HTML-Layout-5">
 <img style="width:600px; height:auto;" alt="Quito layout HTML com o lado esquerdo nas telas dos computadores e nas telas menores abaixo da principal que contém o conteúdo principal do site." src="https://docs.google.com/uc?id=1vB1S6IS7qWoCI3W7iHcPL8Lf8YLf6wDl">
 </a>
 </p>
