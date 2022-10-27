@@ -39,6 +39,12 @@
 </a>
 </p>
 
+<h3>Links</h3>
+<p><a href="https://github.com/RMS-Project-YouTube/HTML-Layout-2">HTML Layout Template - Expansive</a></p>
+<p><a href="https://github.com/RMS-Project-YouTube/HTML-Layout-2-System">HTML Layout Template - System</a></p>
+
+<br><br><br>
+
 <h2>Layout 3</h2>
 <br>
 <p align="center">
@@ -46,6 +52,12 @@
 <img style="width:600px; height:auto;" alt="Terceiro layout com o menu de navegação abaixo do cabeçalho alinhado ao centro. O lado fica à direita do principal que possui o conteúdo principal do site. Quando em telas de smartphones o menu fica oculto e é exibido quando recebe um toque no botão de menu no canto superior direito." src="https://docs.google.com/uc?id=1DAyhA8yWBbiSw7JBAw39o_gOMPv7mnnR">
 </a>
 </p>
+
+<h3>Links</h3>
+<p><a href="https://github.com/RMS-Project-YouTube/HTML-Layout-3">HTML Layout Template - Expansive</a></p>
+<p><a href="https://github.com/RMS-Project-YouTube/HTML-Layout-3-System">HTML Layout Template - System</a></p>
+
+<br><br><br>
 
 <h2>Layout 4</h2>
 <br>
@@ -55,6 +67,12 @@
 </a>
 </p>
 
+<h3>Links</h3>
+<p><a href="https://github.com/RMS-Project-YouTube/HTML-Layout-4">HTML Layout Template - Expansive</a></p>
+<p><a href="https://github.com/RMS-Project-YouTube/HTML-Layout-4-System">HTML Layout Template - System</a></p>
+
+<br><br><br>
+
 <h2>Layout 5</h2>
 <br>
 <p align="center">
@@ -62,3 +80,9 @@
 <img style="width:600px; height:auto;" alt="Quito layout HTML com o lado esquerdo nas telas dos computadores e nas telas menores abaixo da principal que contém o conteúdo principal do site." src="https://docs.google.com/uc?id=1vB1S6IS7qWoCI3W7iHcPL8Lf8YLf6wDl">
 </a>
 </p>
+
+<h3>Links</h3>
+<p><a href="https://github.com/RMS-Project-YouTube/HTML-Layout-5">HTML Layout Template - Expansive</a></p>
+<p><a href="https://github.com/RMS-Project-YouTube/HTML-Layout-5-System">HTML Layout Template - System</a></p>
+
+<br><br><br>
