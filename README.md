@@ -37,17 +37,17 @@
 <h2>Layout 3</h2>
 <br>
 <a align="center" href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%203">
-<img alt="Terceiro layout com o menu de navegação abaixo do cabeçalho alinhado ao centro. O lado fica à direita do principal que possui o conteúdo principal do site. Quando em telas de smartphones o menu fica oculto e é exibido quando recebe um toque no botão de menu no canto superior direito." src="https://docs.google.com/uc?id=1DAyhA8yWBbiSw7JBAw39o_gOMPv7mnnR/view?usp=sharing">
+<img alt="Terceiro layout com o menu de navegação abaixo do cabeçalho alinhado ao centro. O lado fica à direita do principal que possui o conteúdo principal do site. Quando em telas de smartphones o menu fica oculto e é exibido quando recebe um toque no botão de menu no canto superior direito." src="https://docs.google.com/uc?id=1DAyhA8yWBbiSw7JBAw39o_gOMPv7mnnR">
 </a>
 
 <h2>Layout 4</h2>
 <br>
 <a align="center" href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%204">
-<img alt="Quarto layout que exibe o menu na parte superior do site no lado esquerdo do cabeçalho. Quando em telas de smartphones, ele fica oculto e é exibido quando você toca no botão de menu no canto superior direito." src="https://docs.google.com/uc?id=173Z4jSBQF0MDbHj80EaSetmnxJU72ZZd/view?usp=sharin)">
+<img alt="Quarto layout que exibe o menu na parte superior do site no lado esquerdo do cabeçalho. Quando em telas de smartphones, ele fica oculto e é exibido quando você toca no botão de menu no canto superior direito." src="https://docs.google.com/uc?id=173Z4jSBQF0MDbHj80EaSetmnxJU72ZZd">
 </a>
 
 <h2>Layout 5</h2>
 <br>
 <a align="center" href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%205">
-<img alt="Quito layout HTML com o lado esquerdo nas telas dos computadores e nas telas menores abaixo da principal que contém o conteúdo principal do site." src="github_img/layout_5.gif](https://docs.google.com/uc?id=1vB1S6IS7qWoCI3W7iHcPL8Lf8YLf6wDl">
+<img alt="Quito layout HTML com o lado esquerdo nas telas dos computadores e nas telas menores abaixo da principal que contém o conteúdo principal do site." src="https://docs.google.com/uc?id=1vB1S6IS7qWoCI3W7iHcPL8Lf8YLf6wDl">
 </a>
