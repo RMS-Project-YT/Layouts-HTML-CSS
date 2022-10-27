@@ -8,9 +8,16 @@
 
 <h2>Layout 1</h2>
 <br>
+<p>🇧🇷  &nbsp;&nbsp;Primeiro layout - Mostra todas as tags HTML semânticas uma abaixo da outra. Quando apresentado em telas menores, como smartphones, o menu fica oculto, sendo exibido apenas quando o botão de menu no canto superior direito é clicado.</p>
+
+<p>🇱🇷 &nbsp; &nbsp;First layout - Shows all semantic HTML tags one below the other. When presented on smaller screens such as smartphones, the menu is hidden, being displayed only when the menu button in the upper right corner is clicked.</p>
+
 <a align="center" href="https://github.com/RMS-Project-YouTube/HTML-Layout-1">
-<img alt="Primeiro layout. Mostra todas as tags HTML semânticas abaixo da outra que quando nas telas do smartphone o menu fica oculto e é exibido ao passar por cima do botão de menu no canto superior direito." src="https://docs.google.com/uc?id=1A8eDQNsIbQTmXkim95VtEkRQnd0qrDaN">
+<img alt="Mostra todas as tags HTML semânticas uma abaixo da outra. Quando apresentado em telas menores, como smartphones, o menu fica oculto, sendo exibido apenas quando o botão de menu no canto superior direito é clicado." src="https://docs.google.com/uc?id=1A8eDQNsIbQTmXkim95VtEkRQnd0qrDaN">
 </a>
+
+<p><a align="center" href="https://github.com/RMS-Project-YouTube/HTML-Layout-1">HTML Layout Template - Expansive</a></p>
+<p><a align="center" href="https://github.com/RMS-Project-YouTube/HTML-Layout-1-System">HTML Layout Template - System</a></p>
 
 <h2>Layout 2</h2>
 <br>
