@@ -19,10 +19,13 @@
 
 <p>🇱🇷 &nbsp; &nbsp;First layout - Shows all semantic HTML tags one below the other. When presented on smaller screens such as smartphones, the menu is hidden, being displayed only when the menu button in the upper right corner is clicked.</p>
 
-<a align="center" href="https://github.com/RMS-Project-YouTube/HTML-Layout-1">
-<img style="width:60%; height:auto;" alt="Mostra todas as tags HTML semânticas uma abaixo da outra. Quando apresentado em telas menores, como smartphones, o menu fica oculto, sendo exibido apenas quando o botão de menu no canto superior direito é clicado." src="https://docs.google.com/uc?id=1A8eDQNsIbQTmXkim95VtEkRQnd0qrDaN">
+<p align="center">
+<a href="https://github.com/RMS-Project-YouTube/HTML-Layout-1">
+<img style="width:600px; height:auto;" alt="Mostra todas as tags HTML semânticas uma abaixo da outra. Quando apresentado em telas menores, como smartphones, o menu fica oculto, sendo exibido apenas quando o botão de menu no canto superior direito é clicado." src="https://docs.google.com/uc?id=1A8eDQNsIbQTmXkim95VtEkRQnd0qrDaN">
 </a>
+</p>
 
+<h3>Links</h3>
 <p><a href="https://github.com/RMS-Project-YouTube/HTML-Layout-1">HTML Layout Template - Expansive</a></p>
 <p><a href="https://github.com/RMS-Project-YouTube/HTML-Layout-1-System">HTML Layout Template - System</a></p>
 
@@ -30,24 +33,32 @@
 
 <h2>Layout 2</h2>
 <br>
-<a align="center" href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%202">
-<img alt="Segundo layout. As tags de navegação ficam à esquerda e à direita do main que tem o conteúdo principal do site. Quando nas telas dos smartphones, o menu fica oculto e é exibido quando você toca no botão de menu em superior direito." src="https://docs.google.com/uc?id=1Mi0HMry4lQoFqVSU2LV-GPrK6kpJbuef">
+<p align="center">
+<a href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%202">
+<img style="width:600px; height:auto;" alt="Segundo layout. As tags de navegação ficam à esquerda e à direita do main que tem o conteúdo principal do site. Quando nas telas dos smartphones, o menu fica oculto e é exibido quando você toca no botão de menu em superior direito." src="https://docs.google.com/uc?id=1Mi0HMry4lQoFqVSU2LV-GPrK6kpJbuef">
 </a>
+</p>
 
 <h2>Layout 3</h2>
 <br>
-<a align="center" href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%203">
-<img alt="Terceiro layout com o menu de navegação abaixo do cabeçalho alinhado ao centro. O lado fica à direita do principal que possui o conteúdo principal do site. Quando em telas de smartphones o menu fica oculto e é exibido quando recebe um toque no botão de menu no canto superior direito." src="https://docs.google.com/uc?id=1DAyhA8yWBbiSw7JBAw39o_gOMPv7mnnR">
+<p align="center">
+<a href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%203">
+<img style="width:600px; height:auto;" alt="Terceiro layout com o menu de navegação abaixo do cabeçalho alinhado ao centro. O lado fica à direita do principal que possui o conteúdo principal do site. Quando em telas de smartphones o menu fica oculto e é exibido quando recebe um toque no botão de menu no canto superior direito." src="https://docs.google.com/uc?id=1DAyhA8yWBbiSw7JBAw39o_gOMPv7mnnR">
 </a>
+</p>
 
 <h2>Layout 4</h2>
 <br>
-<a align="center" href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%204">
-<img alt="Quarto layout que exibe o menu na parte superior do site no lado esquerdo do cabeçalho. Quando em telas de smartphones, ele fica oculto e é exibido quando você toca no botão de menu no canto superior direito." src="https://docs.google.com/uc?id=173Z4jSBQF0MDbHj80EaSetmnxJU72ZZd">
+<p align="center">
+<a href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%204">
+<img style="width:600px; height:auto;" alt="Quarto layout que exibe o menu na parte superior do site no lado esquerdo do cabeçalho. Quando em telas de smartphones, ele fica oculto e é exibido quando você toca no botão de menu no canto superior direito." src="https://docs.google.com/uc?id=173Z4jSBQF0MDbHj80EaSetmnxJU72ZZd">
 </a>
+</p>
 
 <h2>Layout 5</h2>
 <br>
-<a align="center" href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%205">
-<img alt="Quito layout HTML com o lado esquerdo nas telas dos computadores e nas telas menores abaixo da principal que contém o conteúdo principal do site." src="https://docs.google.com/uc?id=1vB1S6IS7qWoCI3W7iHcPL8Lf8YLf6wDl">
+<p align="center">
+<a href="https://github.com/RodrigoMS/Layouts-HTML-CSS/tree/main/Layout%205">
+<img style="width:600px; height:auto;" alt="Quito layout HTML com o lado esquerdo nas telas dos computadores e nas telas menores abaixo da principal que contém o conteúdo principal do site." src="https://docs.google.com/uc?id=1vB1S6IS7qWoCI3W7iHcPL8Lf8YLf6wDl">
 </a>
+</p>
