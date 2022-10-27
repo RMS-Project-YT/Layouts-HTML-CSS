@@ -1,8 +1,11 @@
-# 5 Layouts de sites mais comuns na Internet
+# 🇧🇷  &nbsp;&nbsp; 5 layouts de sites mais comuns na internet
+## 🇱🇷 &nbsp; &nbsp; 5 most common website layouts on the internet
 
-<p>Durante a criação foram utilizadas tags HTML semânticas, propriedade CSS flex, responsividade e manipulação de CSS com Javascript. Para mais detalhes de implementação, o vídeo está disponível no Youtube.</p>
+<p>🇧🇷  &nbsp;&nbsp;Este projeto trabalha desenvolve com as tecnologias HTML, CSS e Javascript</p>
+<p>Durante a criação, foram utilizadas tags HTML semânticas, propriedade CSS flex, responsividade e manipulação de CSS com Javascript. Para mais detalhes de implementação, o vídeo está disponível no YouTube: https://www.youtube.com/watch?v=sSkmBxsaJWg</p>
 
-<p>URL: https://www.youtube.com/watch?v=sSkmBxsaJWg</p>
+<p>🇱🇷 &nbsp; &nbsp;This project works with HTML, CSS and Javascript technologies</p>
+<p>During the creation, semantic HTML tags, CSS flex property, responsiveness and CSS manipulation with Javascript were used. For more implementation details, the video is available on YouTube: https://www.youtube.com/watch?v=sSkmBxsaJWg</p>
 
 <br>
 
