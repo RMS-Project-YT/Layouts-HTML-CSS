@@ -1,11 +1,11 @@
-# 🇧🇷  &nbsp;&nbsp; 5 layouts de sites mais comuns na internet
+<h1>🇧🇷  &nbsp;&nbsp; 5 layouts de sites mais comuns na internet</h1>
 
 <p>Este projeto trabalha desenvolve com as tecnologias HTML, CSS e Javascript</p>
 <p>Durante a criação, foram utilizadas tags HTML semânticas, propriedade CSS flex, responsividade e manipulação de CSS com Javascript. Para mais detalhes de implementação, o vídeo está disponível no YouTube: https://www.youtube.com/watch?v=sSkmBxsaJWg</p>
 
 <br>
 
-# 🇱🇷 &nbsp; &nbsp; 5 most common website layouts on the internet
+<h1>🇱🇷 &nbsp; &nbsp; 5 most common website layouts on the internet</h1>
 
 <p>This project works with HTML, CSS and Javascript technologies</p>
 <p>During the creation, semantic HTML tags, CSS flex property, responsiveness and CSS manipulation with Javascript were used. For more implementation details, the video is available on YouTube: https://www.youtube.com/watch?v=sSkmBxsaJWg</p>
@@ -24,6 +24,8 @@
 
 <p><a align="center" href="https://github.com/RMS-Project-YouTube/HTML-Layout-1">HTML Layout Template - Expansive</a></p>
 <p><a align="center" href="https://github.com/RMS-Project-YouTube/HTML-Layout-1-System">HTML Layout Template - System</a></p>
+
+<br><br><br>
 
 <h2>Layout 2</h2>
 <br>
