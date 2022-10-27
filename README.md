@@ -33,9 +33,14 @@
 
 <h2>Layout 2</h2>
 <br>
+
+<p>🇧🇷  &nbsp;&nbsp;Segundo layout - As tags de navegação ficam à esquerda, as tags relacionadas à direita e a principal "main" no centro com o conteúdo principal do site. Quando apresentado em telas menores, como smartphones, o menu fica oculto, sendo exibido apenas quando o botão de menu no canto superior direito é clicado.</p>
+
+<p>🇱🇷 &nbsp; &nbsp;Second layout - navigation tags are on the left, related tags on the right and the main "main" in the center with the main content of the site. When presented on smaller screens such as smartphones, the menu is hidden, being displayed only when the menu button in the upper right corner is clicked.</p>
+
 <p align="center">
 <a href="https://github.com/RMS-Project-YouTube/HTML-Layout-2">
-<img style="width:600px; height:auto;" alt="Segundo layout. As tags de navegação ficam à esquerda e à direita do main que tem o conteúdo principal do site. Quando nas telas dos smartphones, o menu fica oculto e é exibido quando você toca no botão de menu em superior direito." src="https://docs.google.com/uc?id=1Mi0HMry4lQoFqVSU2LV-GPrK6kpJbuef">
+<img style="width:600px; height:auto;" alt="As tags de navegação ficam à esquerda, as tags relacionadas à direita e a principal "main" no centro com o conteúdo principal do site. Quando apresentado em telas menores, como smartphones, o menu fica oculto, sendo exibido apenas quando o botão de menu no canto superior direito é clicado." src="https://docs.google.com/uc?id=1Mi0HMry4lQoFqVSU2LV-GPrK6kpJbuef">
 </a>
 </p>
 
